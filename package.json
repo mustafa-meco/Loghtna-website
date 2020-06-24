@@ -1,0 +1,32 @@
+{
+  "name": "gruntproject",
+  "version": "1.0.0",
+  "description": "package for the website of loghtna",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "grunt": "^1.1.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafa-meco/Loghtna-website.git"
+  },
+  "keywords": [
+    "loghtna",
+    "website"
+  ],
+  "author": "Mustafa Gamal Ghoneim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafa-meco/Loghtna-website/issues"
+  },
+  "homepage": "https://github.com/mustafa-meco/Loghtna-website#readme"
+}
