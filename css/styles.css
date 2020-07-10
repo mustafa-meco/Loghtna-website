@@ -85,3 +85,5 @@ a .btn {
 .btn {width:6em}
 .btn:hover span {display:"fff"}
 .btn:hover:before {content:""}
+
+.dropdown:hover .dropdown-menu {display: block;}
